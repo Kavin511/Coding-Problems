@@ -1,7 +1,7 @@
-Rotation of numbers until the number is palindrome
-input :123
-output:444
-Solution:
+// Rotation of numbers until the number is palindrome
+// input :123
+// output:444
+// Solution:
 import java.io.*;
 import java.util.*;
 
